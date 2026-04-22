@@ -2,15 +2,6 @@ import librosa
 import librosa.display
 import matplotlib.pyplot as plt
 
-#Create virtual environment
-#python -m venv venv
-
-#Activate it
-#venv\Scripts\activate
-
-
-
-
 # Path to your audio file
 file_path = "data/yes.wav"
 
